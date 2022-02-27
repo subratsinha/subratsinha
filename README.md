@@ -23,9 +23,10 @@ Here are some ideas to get you started:
 
 <!-- 
 <h3 align="center">A Proactive learner, passionate about programming and technology</h3>
-<p align="center"> -->
+<p align="center">-->
 
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=A+Proactive+Learner;passionate+about+programming+and+technology;&font=Fira%20Code&center=true&width=440&height=45&color=406df7&vCenter=true&size=22"></a>
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=A+Proactive+Learner+;Passionate+about+programming;+and+technology;&font=Fira%20Code&center=true&width=440&height=45&color=406df7&vCenter=true&size=22"></a>
 </p>
 
 - 🔭 I’m currently working on **Real time identification of Indian license plate**
@@ -142,10 +143,10 @@ Here are some ideas to get you started:
    
    
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=subratsinha&show_icons=true&locale=en&layout=compact" alt="subratsinha" width="40" height="40" /></p>&nbsp;  &nbsp;
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=subratsinha&show_icons=true&locale=en&layout=compact" alt="subratsinha" 
+   style=" height: 220px; width: 450px;" /></p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=subratsinha&show_icons=true&locale=en" alt="subratsinha"  width="40" height="40" /></p>
+<p><img align="right" src="https://github-readme-stats.vercel.app/api?username=subratsinha&show_icons=true&locale=en" alt="subratsinha" style="padding-top:50px;" /></p><br>
 
-<br><br>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=subratsinha&" alt="subratsinha" /></p>
+<p style="padding-left:250px;"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=subratsinha&" alt="subratsinha"   style=" height: 220px; width: 550px; padding-left:250px" /></p>
 
