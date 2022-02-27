@@ -142,9 +142,10 @@ Here are some ideas to get you started:
    
    
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=subratsinha&show_icons=true&locale=en&layout=compact" alt="subratsinha" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=subratsinha&show_icons=true&locale=en&layout=compact" alt="subratsinha" width="40" height="40" /></p>&nbsp;  &nbsp;
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=subratsinha&show_icons=true&locale=en" alt="subratsinha" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=subratsinha&show_icons=true&locale=en" alt="subratsinha"  width="40" height="40" /></p>
 
+<br><br>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=subratsinha&" alt="subratsinha" /></p>
 
