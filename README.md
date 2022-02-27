@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 <!--
 **subratsinha/subratsinha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -21,9 +21,11 @@ Here are some ideas to get you started:
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h1>
 
+<!-- 
 <h3 align="center">A Proactive learner, passionate about programming and technology</h3>
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Enthusiastic+Learner+with+a+;passion+of+programming+and+;become+a+developer&font=Fira%20Code&center=true&width=440&height=45&color=406df7&vCenter=true&size=22"></a>
+<p align="center"> -->
+
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=A+Proactive+Learner;passionate+about+programming+and+technology;&font=Fira%20Code&center=true&width=440&height=45&color=406df7&vCenter=true&size=22"></a>
 </p>
 
 - 🔭 I’m currently working on **Real time identification of Indian license plate**
@@ -44,11 +46,9 @@ Here are some ideas to get you started:
    &nbsp;  &nbsp;
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/subrat-sinha-8190701a0/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/subrat-sinha-8190701a0/" height="30" width="40" /></a>
    &nbsp;  &nbsp;
-  
-<a href="https://www.hackerrank.com/subratsinha432" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="subratsinha432" height="30" width="40" /></a>
+  <a href="https://www.hackerrank.com/subratsinha432" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="subratsinha432" height="30" width="40" /></a>
    &nbsp;  &nbsp;
-  
-<a href="https://www.leetcode.com/subratsinha432/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="subratsinha432/" height="30" width="40" /></a>
+  <a href="https://www.leetcode.com/subratsinha432/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="subratsinha432/" height="30" width="40" /></a>
    &nbsp;  &nbsp;
   
 </p>
